@@ -35,6 +35,8 @@ flake8-docstrings = "^1.5.0"
 darglint = "^1.4.1"
 xdoctest = "^0.12.0"
 sphinx = "^3.1.1"
+sphinx-autodoc-typehints = "^1.11.0"
+rstcheck = "^3.3.1"
 
 [tool.poetry.scripts]
 hypermodern-python = "hypermodern_python.console:main"
